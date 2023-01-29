@@ -1,0 +1,22 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "Trading Bot Yo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/manassarma13/fly1ng_whal3_profits.git"
+  },
+  "keywords": [
+    "trading-bot"
+  ],
+  "author": "The Flying Whale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manassarma13/fly1ng_whal3_profits/issues"
+  },
+  "homepage": "https://github.com/manassarma13/fly1ng_whal3_profits#readme"
+}
